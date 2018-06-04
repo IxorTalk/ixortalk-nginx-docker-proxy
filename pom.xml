@@ -34,7 +34,7 @@
 
     <name>ixortalk.nginx.docker.proxy</name>
     <description>Nginx reverse proxy docker container</description>
-    <url>https://github.com/ixortalkadmin/ixortalk-nginx-docker-proxy/tree/master</url>
+    <url>https://github.com/ixortalk/ixortalk-nginx-docker-proxy/tree/master</url>
 
     <organization>
         <name>IxorTalk CVBA</name>
@@ -71,7 +71,7 @@
     <scm>
         <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-nginx-docker-proxy.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-nginx-docker-proxy.git</developerConnection>
-        <url>https://github.com/ixortalkadmin/ixortalk-nginx-docker-proxy/tree/master</url>
+        <url>https://github.com/ixortalk/ixortalk-nginx-docker-proxy/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
