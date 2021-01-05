@@ -22,7 +22,7 @@
 # SOFTWARE.
 #
 
-FROM nginx:1.13.9-alpine
+FROM nginx:1.19.6-alpine
 ADD docker-entrypoint.sh /
 RUN chmod +x /docker-entrypoint.sh
 ENTRYPOINT ["/docker-entrypoint.sh"]
